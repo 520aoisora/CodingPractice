@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Chapter1">
+      <UniqueIdentifier>{b26602b5-e29c-4359-a943-a3a2a6b0d963}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Chapter2">
+      <UniqueIdentifier>{0dd61dec-5ab0-46ed-b16c-9872394442c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chapter1">
+      <UniqueIdentifier>{d81e12ab-9509-4ddd-8916-d6ee14587bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chapter2">
+      <UniqueIdentifier>{d450257d-3093-4009-84c7-f38fb2571f70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question1.h">
+      <Filter>Header Files\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question2.h">
+      <Filter>Header Files\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question3.h">
+      <Filter>Header Files\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question4.h">
+      <Filter>Header Files\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question5.h">
+      <Filter>Header Files\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question6.h">
+      <Filter>Header Files\Chapter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question7.h">
+      <Filter>Header Files\Chapter1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question1.cpp">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question2.cpp">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question3.cpp">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question4.cpp">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question5.cpp">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question6.cpp">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2012\Projects\Chapter1\Chapter1\Chapter1Question7.cpp">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
